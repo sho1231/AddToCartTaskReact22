@@ -12,7 +12,7 @@ const Header = ({ itemCount }) => {
         <div className="d-flex">
           <label className="btn btn-outline-dark">
             <i className="fa-solid fa-cart-shopping me-2"></i>
-            Cart
+            My Cart
             <span className="badge bg-dark text-white ms-1 rounded-pill">
               {itemCount}
             </span>
